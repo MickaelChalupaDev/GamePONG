@@ -1,3 +1,10 @@
+/***********************************
+*DOWNLOAD PROCESSING LIB           *
+*                                  *
+*AND ADD BUILDPATH TO USE THIS GAME*
+*                                  *
+************************************/
+
 import processing.core.*;
 
 public class PONG extends PApplet {
